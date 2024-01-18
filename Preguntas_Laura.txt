@@ -1,0 +1,83 @@
+Scenario: Crear un registro de un nuevo usuario satisfactoriamente desde la aplicación móvil iOS
+	Given: En la aplicación, en la ventana de la opción para registrar un usuario nuevo
+	When: el usuario introduzca los datos obligatorios debidamente 
+	And: el usuario haga clic en el botón OK
+	Then: aparezca un mensaje confirmando el registro del usuario y la aplicación muestre la pantalla de bienvenida
+
+Pregunta 2: 
+Scenario: Reporte de transacciones desde la aplicación móvil en iOS
+	Given: La aplicación iOS reporta las transacciones 
+	When: cada que un usuario confirme una transacción 
+	And: 
+	Then: los medios Backend recibe los datos 
+
+Pregunta 3: 
+Scenario: Procesen correctamente las transacciones en los medios backend y back office
+	Given: Las transacciones desde la aplicación iOS y Android son recibidas en backend
+	When: backoffice requiera la información del backend
+	And: 
+	Then: se llenan los informes  y reportes en el tablero
+
+Pregunta 4:
+Scenario: backoffice visualiza el historial de transacciones en el sitio web
+	Given: Las transacciones desde la aplicación iOS y Android son recibidas en backend y correctamente son almacenadas en backend
+	When: se consulten en el sitio web
+	And: 
+	Then: el historial de transacciones se llena correctamente con los datos almacenados en el backend
+
+Pregunta 5:
+Scenario: Verificar el tiempo de respuesta para transacciones  con carga alta simultánea 
+	Given: cantidad alta de usuarios simultáneos desde la aplicación
+	When: use una herramienta para el monitoreo de servidores
+	And: y una herramienta para el monitoreo de los dispositivos de comunicación
+	Then: el tiempo de respuesta no rebasa el tiempo estimado y/o estipulado y el sistema completo funciona correctamente
+
+Pregunta 6:
+Scenario: Actualización de el estado de una transacción desde en la aplicación móvil
+	Given: el usuario hace una transacción en la aplicación y busca el estado de la transacción en tiempo real
+	When: quiere consultar el estado de la transacción por su ID 
+	And: hace clic para confirmar
+	Then: el estado de la transacción se muestra dentro del tiempo estipulado  con los datos relacionados
+
+PARTE 2 Ejercicios técnicos
+	Lo siento, estaba enfocada en pruebas manuales y estoy aprendiendo de nuevo para hacer automatización 
+
+
+PARTE 3 Preguntas abiertas
+Pregunta 1: ¡Cuál es la diferencia entre pruebas de carga y estrés?
+ 	En las pruebas de carga se eligen el nivel de carga y en estrés hacer tantas transacciones en el sistema hasta que ya no soporte
+Pregunta 2: ¿Qué probarías si tuvieras que probar una nueva versión que solventa un bug crítico en producción?
+	Primero el bug critico y las áreas directamente relaciones con ese bug, luego lo demás en caso de que el tiempo lo permitiera y también correr pruebas automatizadas, en caso de que se pueda.
+
+Pregunta 3: ¿Cómo reportarías los bugs encontrados hacía los desarrolladores?
+	Con toda la evidencia o una repetición del bug directamente con ellos, y luego en la herramienta para el proyecto
+
+Pregunta 4: ¿Cómo le darías seguimiento a bugs reportados a Desarrollo?
+	De acuerdo al tiempo y severidad del bug, debe estar acordado con el equipo y en qué forma se puede validar que está listo
+
+Pregunta 5: ¿Cuál serían los niveles de severidad que manejarías para reportar bugs y con base en qué?
+	Showstopper, 
+	Alto
+	Medio
+		
+
+Pregunta 6: ¿Puedes explicar qué es la metodología de pruebas Ágil y cuáles son sus principios fundamentales?
+	Es una metodología en la que se entregan más avances en menos tiempo de acuerdo a los que se puede hacer y el equipo trabaja más colaborativo.
+	Colaboración, el equipo se auto organiza, las entregas van por tiempo 
+
+Pregunta 7: ¿Cuál es la diferencia entre pruebas funcionales y pruebas no funcionales? Proporciona ejemplos de cada una.
+	Las pruebas funcionales van relacionados a los requerimientos del usuario o del cliente, por con las historias de usuario.
+	Las pruebas no funcionales con los aspectos que ayudan que los requerimientos del usuario funcionen mejor, por ejemplo usabilidad.
+
+Pregunta 8: ¿Qué es la automatización de pruebas y cuáles serían algunos casos donde sería más beneficioso automatizar pruebas en lugar de realizar pruebas manuales? Herramientas y Técnicas de Pruebas:
+	Es hacer pruebas sin que una persona haga los pasos, sino un programa.
+	Cuando se están haciendo pruebas manuales para requerimientos nuevos, un programa puede realizar las pruebas de regresión o las pruebas smoke o sanity para ver que lo que han implementado no ha roto el sistema.
+
+Pregunta 9: ¿Puedes mencionar algunas herramientas populares de automatización de pruebas y describir en qué escenarios podrían ser más útiles?
+	Selenium - para pruebas web
+	Appium - para dispositivos móviles
+	Ranorex - para aplicaciones de escritorio
+
+Pregunta 10: ¿Qué casos no automatizarías?
+	Los que están relacionados a requerimientos nuevos o que van a recibir muchos cambios y el costo de implementar esos cambios sería alto.
+
