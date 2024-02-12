@@ -2,6 +2,7 @@ package org.technicalTest.com.palandromo;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
 public class Palindromo {
     static Logger logger = Logger.getLogger(Palindromo.class.getName());
     static PalindromoDto palindromoDto = new PalindromoDto();
