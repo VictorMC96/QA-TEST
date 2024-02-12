@@ -1,0 +1,15 @@
+
+r
+java:S1192!"PDefine a constant instead of duplicating this literal " a palindrome? " 4 times.(‘¹Ş×ùÿÿÿÿ8¯ÑËÒÙ1
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¦Ò¶Ô8°ÑËÒÙ1
+s	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(úöC8°ÑËÒÙ1
+Y
+java:S2629!"7Use the built-in formatting to construct this argument.(‘¹Ş×ùÿÿÿÿ8ÙğÜÒÙ1
+Y
+java:S2629""7Use the built-in formatting to construct this argument.(†¼Ñâùÿÿÿÿ8àÒÙ1
+Y
+java:S2629#"7Use the built-in formatting to construct this argument.(Ã¤³šüÿÿÿÿ8ŸàÒÙ1
+T
+java:S2629$"7Use the built-in formatting to construct this argument.(«îÃ8ŸàÒÙ1
+7
+java:S1220""Move this file to a named package.8½Ç½ÒÙ1
