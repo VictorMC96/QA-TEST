@@ -32,3 +32,9 @@ z
 Jsrc/test/java/org/technicalTest/com/steps/ReporteDeTransaccionesSteps.java,2/b/2b00aa319c0b008aee840124cc72e95b87b86ecf
 Ñ
 Tsrc/test/java/org/technicalTest/com/steps/Integraci√≥nDeBackendYBackOfficeSteps.java,a/e/ae4e033662296accbbef4181ac4282a3b6ed414f
+è
+_src/test/java/org/technicalTest/com/steps/Visualizaci√≥nDeHistorialDeTransaccionesWebSteps.java,4/a/4a607ff757d01a0dc2df0acab2ba3c7157474190
+x
+Hsrc/test/java/org/technicalTest/com/steps/PruebasDeRendimientoSteps.java,7/0/70f752869b1fe22dca25660bf083064be4b6af07
+â
+Ysrc/test/java/org/technicalTest/com/steps/Actualizaci√≥nDeEstadoDeTransaccionesSteps.java,8/2/8229b2103a15c632364f9fb342e7a20dbc656527
