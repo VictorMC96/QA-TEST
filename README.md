@@ -107,7 +107,10 @@ Las pruebas Álgil es el trabajo colaborativo el feedback continuo y la producci
 * Autoorganizarse.
 
 **Pregunta 7: ¿Cuál es la diferencia entre pruebas funcionales y pruebas no funcionales? Proporciona ejemplos de cada una.**
-Las pruebas funcionales se enfocan en probar la aplicación que se encuentra dentro de la caja negra, su enfoque es más apegado al diseño y que se encuentre apegado a las reglas de negocio; validando que cumpla con lo esperado por el cliente. Las pruebas no funciones validan todo lo que se encuentra dentro de la caja blanco como es: Pruebas de sistema, Pruebras de integración, Pruebas de carga y redimiento, pruebas de Estres, Pruebas de seguridad Pruebas automatizadas.
+Las pruebas funcionales se enfocan en probar la aplicación que se encuentra dentro de la caja negra, su enfoque es más apegado al diseño y que se encuentre apegado a las reglas de negocio; validando que cumpla con lo esperado por el cliente. Las pruebas no funciones validan todo lo que se encuentra dentro de la caja blanco como es: Pruebas de sistema, Pruebras de integración, Pruebas de carga y redimiento, pruebas de Estres, Pruebas de seguridad y Pruebas automatizadas.
+Ejemplo:
+* Pruebas de caja negra: El qa funcional se enfoca a probar actividades origientadas a un sitio web o aplicación sin validar endPoints.
+* Pruebas de caja blanca: El qa funcional o automatizador validan el consumo de los endpoints y la inserción de los datos en la base.
 
 **Pregunta 8: ¿Qué es la automatización de pruebas y cuáles serían algunos casos donde sería más beneficioso automatizar pruebas en lugar de realizar pruebas manuales?
 Herramientas y Técnicas de Pruebas:**
@@ -131,7 +134,7 @@ Herramientas:
 **Pregunta 9: ¿Puedes mencionar algunas herramientas populares de automatización de pruebas y describir en qué escenarios podrían ser más útiles?**
 * Selenium: SeleniumWebDriver está orientado para probar navegadores como son:  Chrome, Firefox, Edge y Opera.
 * Appium: AppiumWebDriver, su función es probar flujo dentro dentro de un dispositivo movil como son: Navegadores moviles y aplicaciones.
-* Cypress: Se implementa para poder probar navegadores y dispositivos moviles, viene pre cargada la configuración y los lenguajes en los que se puede implementar es con JavaScript y React.
+* Cypress: Se implementa para poder probar navegadores y dispositivos moviles, viene pre cargada la configuración y los lenguajes en los que se puede implementar es con JavaScript, TypeScript y React.
 * TestCafe Su enfoque son navegadores, al momento de realizar la configuración es más rápido por que viene pre cargado y único es enfocarse en llevar una buena estructura del proyecto.
 
 **Pregunta 10: ¿Qué casos no automatizarías?**
