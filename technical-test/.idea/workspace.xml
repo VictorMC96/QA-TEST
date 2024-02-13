@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbcc0a0f-b042-4944-af4c-89b646ad067d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/IntegraciónDeBackendYBackOfficeSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/IntegraciónDeBackendYBackOfficeSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/RegistroDeUsuarioSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/RegistroDeUsuarioSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/utils/PropertyReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/utils/PropertyReader.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2cEshv4nJxpvxr0Ndiaz9ESl2aS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Palindromo.executor": "Run",
+    "Cucumber Java.Feature: ActualizaciónDeEstadoDeTransacción.executor": "Run",
+    "Cucumber Java.Feature: IntegraciónDeBackendYBackOffice.executor": "Run",
+    "Cucumber Java.Feature: PruebasDeRendimiento.executor": "Run",
+    "Cucumber Java.Feature: RegistroDeUsuario.executor": "Run",
+    "Cucumber Java.Feature: ReporteDeTransacciones.executor": "Run",
+    "Cucumber Java.Feature: VisualizaciónDeHistorialDeTransaccionesWeb.executor": "Run",
+    "Cucumber Java.Scenario: .executor": "Run",
+    "JUnit.CucumberTest.executor": "Debug",
+    "JUnit.RunCukesTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.technical-test [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "EduardoAvilaCarranza",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/eavilac/RepositoryCenter/QA-TEST/technical-test/src/test/java/org/technicalTest/com",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Gherkin",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/org/technicalTest/com" />
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/technicalTest/com" />
+      <recent name="$PROJECT_DIR$/src/main/resources/features" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.technicalTest.com.utils" />
+      <recent name="org.technicalTest.com.conts" />
+      <recent name="org.technicalTest.com.page" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Feature: IntegraciónDeBackendYBackOffice">
+    <configuration name="Feature: IntegraciónDeBackendYBackOffice" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/IntegraciónDeBackendYBackOffice.feature" />
+      <option name="GLUE" value="org.technicalTest.com.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="technical-test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: IntegraciónDeBackendYBackOffice" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: PruebasDeRendimiento" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/PruebasDeRendimiento.feature" />
+      <option name="GLUE" value="org.technicalTest.com.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="technical-test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: PruebasDeRendimiento" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: RegistroDeUsuario" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/RegistroDeUsuario.feature" />
+      <option name="GLUE" value="org.technicalTest.com.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="technical-test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: RegistroDeUsuario" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: ReporteDeTransacciones" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ReporteDeTransacciones.feature" />
+      <option name="GLUE" value="org.technicalTest.com.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="technical-test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: ReporteDeTransacciones" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: VisualizaciónDeHistorialDeTransaccionesWeb" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/VisualizaciónDeHistorialDeTransaccionesWeb.feature" />
+      <option name="GLUE" value="org.technicalTest.com.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="technical-test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: VisualizaciónDeHistorialDeTransaccionesWeb" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Feature: IntegraciónDeBackendYBackOffice" />
+        <item itemvalue="Cucumber Java.Feature: VisualizaciónDeHistorialDeTransaccionesWeb" />
+        <item itemvalue="Cucumber Java.Feature: ReporteDeTransacciones" />
+        <item itemvalue="Cucumber Java.Feature: RegistroDeUsuario" />
+        <item itemvalue="Cucumber Java.Feature: PruebasDeRendimiento" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbcc0a0f-b042-4944-af4c-89b646ad067d" name="Changes" comment="" />
+      <created>1707688197419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707688197419</updated>
+      <workItem from="1707688198500" duration="9686000" />
+      <workItem from="1707716738325" duration="1142000" />
+      <workItem from="1707717886494" duration="6128000" />
+      <workItem from="1707724034361" duration="190000" />
+      <workItem from="1707757235518" duration="3375000" />
+      <workItem from="1707760618141" duration="5123000" />
+      <workItem from="1707767220360" duration="19172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
