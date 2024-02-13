@@ -13,7 +13,7 @@ Principalmente los siguientes aspectos:
 * Familiaridad con Frameworks y plataformas de pruebas.
 
 ## IMPORTANTE
-1. Realizar los casos de prueba en jherkin.
+1. Realizar los casos de prueba en Gherkin.
 2. Recomendamos emplear un máximo de **3 (tres) horas** y enviar todo lo que puedas, se podrá validar con lso registros de Github.
 4. Se requiere de una **cuenta de GitHub** para realizar este ejercicio.
 5. **Antes de comenzar a contestar:**
@@ -94,20 +94,48 @@ Manadaría un correo directamente al desarrollador que está atendiendo el bug a
 
 **Pregunta 5: ¿Cuál serían los niveles de severidad que manejarías para reportar bugs y con base en qué?**
 Los niveles de severidad que manejo son:
-* Alta:
-* Media:
-* Baja
+* Crítica: Me impide continuar con mi ejecución, bloquea todos los escenarios que tengo asignados; un ejemplo es un inicio de sesión o el ambiente esté abajo.
+* Alta: Detecté un escenario que afecta algunos casos para ejecutar; pero, me permite continuar con mi ejecución. Un ejemplo es creación de nuevas cuentas, para poder continuar la solución es tener insumos ya creados anteriormente.
+* Media: Son bugs realaciondado a una funcionalidad en especifíco que no generan un impacto mayor para poder continuar con la ejecución.
+* Baja: Son bug que se encuentra de forma estética o de look and feel y no generan un impacto mayor en la evaluación de la aplicación.
 
 **Pregunta 6: ¿Puedes explicar qué es la metodología de pruebas Ágil y cuáles son sus principios fundamentales?**
+Las pruebas Álgil es el trabajo colaborativo el feedback continuo y la producción de calidad. los principios fundamentales son:
+* Feedback o retroalimentación continua.
+* Entregar valor al cliente.
+* Comunicación directa.
+* Autoorganizarse.
 
 **Pregunta 7: ¿Cuál es la diferencia entre pruebas funcionales y pruebas no funcionales? Proporciona ejemplos de cada una.**
+Las pruebas funcionales se enfocan en probar la aplicación que se encuentra dentro de la caja negra, su enfoque es más apegado al diseño y que se encuentre apegado a las reglas de negocio; validando que cumpla con lo esperado por el cliente. Las pruebas no funciones validan todo lo que se encuentra dentro de la caja blanco como es: Pruebas de sistema, Pruebras de integración, Pruebas de carga y redimiento, pruebas de Estres, Pruebas de seguridad Pruebas automatizadas.
 
 **Pregunta 8: ¿Qué es la automatización de pruebas y cuáles serían algunos casos donde sería más beneficioso automatizar pruebas en lugar de realizar pruebas manuales?
 Herramientas y Técnicas de Pruebas:**
+Consiste en crear escenarios de pruebas de forma automática en donde se sabe que la aplicación falla de forma constante. Los casos donde es posible automatizar y evitar probar escenarios de forma manual son:
+* Inicio de sesión.
+* Creación de cuentas.
+* Valiación de textos como son: Mensajes de aviso, labels de campos, nombre de botones, label de menú.
+
+Técnicas de pruebas:
+* Una técnica que es utlizada antes de realizar actividades de automatizaciòn es importante conocer las prueba de caja negra, donde se evalúa el software sin conocer su estructura interna. Esto permite probar el software desde la perspectiva del usuario y detectar posibles errores o comportamientos inesperados.
+* La prueba de caja blanca se examina la estructura interna del software, incluyendo el código fuente, esta técnica es útil para identificar errores en la lógica del programa y mejorar la cobertura de las pruebas.
+* La prueba de regresión es una de las técnica importante, que se utiliza para asegurar que los cambios o actualizaciones en el software no hayan introducido nuevos errores o afectado a las funcionalidades existentes.
+
+Herramientas:
+* Selenium: Que es ampliamente utilizada para la automatización de pruebas web, permitiendo grabar y reproducir acciones en un navegador.
+* JIRA: Que facilita la gestión de proyectos de desarrollo y seguimiento de errores.
+* Postman: Es útil para realizar pruebas de API.
+* Appium: Para realizar pruebas de aplicaciones móviles.
+* LoadRunner: Para realizar pruebas de rendimiento.
 
 **Pregunta 9: ¿Puedes mencionar algunas herramientas populares de automatización de pruebas y describir en qué escenarios podrían ser más útiles?**
+* Selenium: SeleniumWebDriver está orientado para probar navegadores como son:  Chrome, Firefox, Edge y Opera.
+* Appium: AppiumWebDriver, su función es probar flujo dentro dentro de un dispositivo movil como son: Navegadores moviles y aplicaciones.
+* Cypress: Se implementa para poder probar navegadores y dispositivos moviles, viene pre cargada la configuración y los lenguajes en los que se puede implementar es con JavaScript y React.
+* TestCafe Su enfoque son navegadores, al momento de realizar la configuración es más rápido por que viene pre cargado y único es enfocarse en llevar una buena estructura del proyecto.
 
 **Pregunta 10: ¿Qué casos no automatizarías?**
+Los casos que no se automatizan son donde la aplicación no presenta fallos de forma contante o donde salga fuera de la cobertura y compatibilidad que se tiene con la herramienta.
 
 En Neology somos fieles creyentes de la transparencia, honestidad, crecimiento y aprendizaje  por lo que agradecemos se pueda llevar a cabo la prueba sin ayuda de terceros o herramientas adicionales. 
 
