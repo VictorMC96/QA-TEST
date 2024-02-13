@@ -5,33 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbcc0a0f-b042-4944-af4c-89b646ad067d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/CucumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/conts/ParametersCucumberConst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/RegistroDeUsuario.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/058170cbe5a7cb7606545a89bf1d1ed679ca40f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19b9f44f03b68b4a552c92c4a852ee98825246c0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24db6e42c4322dedbabb4972d8b60b79f689f86b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b30c18a4ebea38db1b6c3c6af83a153a08b9cde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/4582adbdbc93c548666ed453db75351a766b10c5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afcd8316599dfd19dcec9fa6a2a65d4fe7116423" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf087366cfc7b593a4602c18f2a3f53c6f8522c6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f7866854b2dae444b41394e641453f0791bf2047" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/IntegraciónDeBackendYBackOfficeSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/RegistroDeUsuarioSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/ReporteDeTransaccionesSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/5/058170cbe5a7cb7606545a89bf1d1ed679ca40f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/9/19b9f44f03b68b4a552c92c4a852ee98825246c0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/4/24db6e42c4322dedbabb4972d8b60b79f689f86b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/b/3b30c18a4ebea38db1b6c3c6af83a153a08b9cde" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/5/4582adbdbc93c548666ed453db75351a766b10c5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/f/afcd8316599dfd19dcec9fa6a2a65d4fe7116423" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/f/bf087366cfc7b593a4602c18f2a3f53c6f8522c6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/7/f7866854b2dae444b41394e641453f0791bf2047" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/palandromo/Palindromo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/palandromo/Palindromo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/palandromo/PalindromoDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/palandromo/PalindromoDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/palandromo/PalindromoMessageDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/palandromo/PalindromoMessageDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CucumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CucumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/IntegraciónDeBackendYBackOffice.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/IntegraciónDeBackendYBackOffice.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/RegistroDeUsuario.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/RegistroDeUsuario.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ReporteDeTransacciones.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ReporteDeTransacciones.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,31 +46,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Palindromo.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.RunCukesTest.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.technical-test [clean].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;EduardoAvilaCarranza&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/eavilac/RepositoryCenter/QA-TEST/technical-test/src/test/java/org/technicalTest/com&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Palindromo.executor": "Run",
+    "Cucumber Java.Feature: IntegraciónDeBackendYBackOffice.executor": "Run",
+    "Cucumber Java.Feature: PruebasDeRendimiento.executor": "Run",
+    "Cucumber Java.Feature: RegistroDeUsuario.executor": "Run",
+    "Cucumber Java.Feature: ReporteDeTransacciones.executor": "Run",
+    "Cucumber Java.Scenario: .executor": "Run",
+    "JUnit.CucumberTest.executor": "Run",
+    "JUnit.RunCukesTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.technical-test [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "EduardoAvilaCarranza",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/eavilac/RepositoryCenter/QA-TEST/technical-test/src/test/java/org/technicalTest/com",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Gherkin",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java/org/technicalTest/com" />
@@ -101,25 +91,90 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.technicalTest.com.utils" />
+      <recent name="org.technicalTest.com.conts" />
+      <recent name="org.technicalTest.com.page" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Palindromo">
-    <configuration name="Palindromo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.technicalTest.com.palandromo.Palindromo" />
+  <component name="RunManager" selected="Cucumber Java.Feature: IntegraciónDeBackendYBackOffice">
+    <configuration name="Feature: IntegraciónDeBackendYBackOffice" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/IntegraciónDeBackendYBackOffice.feature" />
+      <option name="GLUE" value="org.technicalTest.com.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="technical-test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: IntegraciónDeBackendYBackOffice" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunCukesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: PruebasDeRendimiento" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/PruebasDeRendimiento.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="technical-test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: PruebasDeRendimiento" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.technicalTest.com" />
-      <option name="MAIN_CLASS_NAME" value="org.technicalTest.com.RunCukesTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: RegistroDeUsuario" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/RegistroDeUsuario.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="technical-test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: RegistroDeUsuario" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: ReporteDeTransacciones" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/ReporteDeTransacciones.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="technical-test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: ReporteDeTransacciones" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="technical-test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CucumberTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,8 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindromo" />
-        <item itemvalue="JUnit.RunCukesTest" />
+        <item itemvalue="Cucumber Java.Feature: IntegraciónDeBackendYBackOffice" />
+        <item itemvalue="Cucumber Java.Feature: ReporteDeTransacciones" />
+        <item itemvalue="Cucumber Java.Feature: RegistroDeUsuario" />
+        <item itemvalue="JUnit.CucumberTest" />
+        <item itemvalue="Cucumber Java.Feature: PruebasDeRendimiento" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +200,11 @@
       <updated>1707688197419</updated>
       <workItem from="1707688198500" duration="9686000" />
       <workItem from="1707716738325" duration="1142000" />
-      <workItem from="1707717886494" duration="368000" />
+      <workItem from="1707717886494" duration="6128000" />
+      <workItem from="1707724034361" duration="190000" />
+      <workItem from="1707757235518" duration="3375000" />
+      <workItem from="1707760618141" duration="5123000" />
+      <workItem from="1707767220360" duration="7642000" />
     </task>
     <servers />
   </component>
@@ -151,5 +213,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

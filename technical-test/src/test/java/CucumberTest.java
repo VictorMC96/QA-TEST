@@ -15,7 +15,8 @@ import org.technicalTest.com.conts.ParametersCucumberConst;
         glue = ParametersCucumberConst.Glue,
         plugin = {ParametersCucumberConst.Pretty, ParametersCucumberConst.ReportHTML,
                 ParametersCucumberConst.ReportJSON, ParametersCucumberConst.ReportXML},
-        monochrome = true)
+        monochrome = true
+)
 public class CucumberTest {
 
 }

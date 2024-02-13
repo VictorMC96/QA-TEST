@@ -9,12 +9,6 @@ v
 Fsrc/test/java/org/technicalTest/com/conts/ParametersCucumberConst.java,c/6/c6a36f0d0dd90d72cff5b5b997109aff8f0c0ba9
 n
 >src/test/java/org/technicalTest/com/palandromo/Palindromo.java,2/9/2942ba559c2f1aa692682a9473c162cd2cb0ad38
-o
-?src/test/java/org/technicalTest/com/page/GenericPageObject.java,6/3/632a5b51cf4a1875879212d0579ebf8c6a8177aa
-n
->src/test/java/org/technicalTest/com/page/PageFactoryXpath.java,a/f/af6bc7873d956ac9fbf69114b1e65f1a1df006d4
-m
-=src/test/java/org/technicalTest/com/page/PageObjectModel.java,4/e/4e2f8cbcd04f5c267af38fb8cd443533567fd488
 r
 Bsrc/test/java/org/technicalTest/com/page/PageObjectModelLogic.java,a/0/a0920e789ee99471d18005e0219135b62f666c69
 s
@@ -32,3 +26,9 @@ Csrc/test/java/org/technicalTest/com/page/PageFactoryXpathLogic.java,5/9/596b0e
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+u
+Esrc/test/java/org/technicalTest/com/steps/RegistroDeUsuarioSteps.java,d/e/de75a8d25b092534b1e71f052a89b3db47341545
+z
+Jsrc/test/java/org/technicalTest/com/steps/ReporteDeTransaccionesSteps.java,2/b/2b00aa319c0b008aee840124cc72e95b87b86ecf
+Ñ
+Tsrc/test/java/org/technicalTest/com/steps/Integraci√≥nDeBackendYBackOfficeSteps.java,a/e/ae4e033662296accbbef4181ac4282a3b6ed414f
