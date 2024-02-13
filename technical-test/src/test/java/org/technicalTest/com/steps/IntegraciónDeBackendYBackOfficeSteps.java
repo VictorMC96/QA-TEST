@@ -10,7 +10,7 @@ import org.technicalTest.com.conts.PropertyConst;
 public class IntegraciónDeBackendYBackOfficeSteps {
     @Given("^Endpoint consumption of transactions(.+)$")
     public void endpointConsumptionOfTransactions(String id) {
-        Assert.assertTrue(PropertyConst.User, true);
+        Assert.assertTrue(id, true);
         System.out.println("Transaction endpoint consumption is performed");
     }
 

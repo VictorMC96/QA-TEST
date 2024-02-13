@@ -6,7 +6,8 @@ import java.io.InputStream;
 import java.util.Properties;
 
 /**
- * Esta clase es responsable de leer los datos que se encuentran dentro de un archivo de propiedades y configurarlos donde se llama a la clase.
+ * Esta clase es responsable de leer los datos que se encuentran dentro de un archivo de propiedades y configurarlos
+ * donde se llama a la clase.
  * */
 
 public class PropertyReader {

@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbcc0a0f-b042-4944-af4c-89b646ad067d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/ActualizaciónDeEstadoDeTransaccionesSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/PruebasDeRendimientoSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/VisualizaciónDeHistorialDeTransaccionesWebSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/conts/PropertyConst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/conts/PropertyConst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ActualizaciónDeEstadoDeTransacción.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ActualizaciónDeEstadoDeTransacción.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/PruebasDeRendimiento.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/PruebasDeRendimiento.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/VisualizaciónDeHistorialDeTransaccionesWeb.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/VisualizaciónDeHistorialDeTransaccionesWeb.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/IntegraciónDeBackendYBackOfficeSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/IntegraciónDeBackendYBackOfficeSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/RegistroDeUsuarioSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/steps/RegistroDeUsuarioSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/utils/PropertyReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/technicalTest/com/utils/PropertyReader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +49,7 @@
     "Cucumber Java.Feature: ReporteDeTransacciones.executor": "Run",
     "Cucumber Java.Feature: VisualizaciónDeHistorialDeTransaccionesWeb.executor": "Run",
     "Cucumber Java.Scenario: .executor": "Run",
-    "JUnit.CucumberTest.executor": "Run",
+    "JUnit.CucumberTest.executor": "Debug",
     "JUnit.RunCukesTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "Maven.technical-test [clean].executor": "Run",
@@ -99,7 +91,7 @@
       <recent name="org.technicalTest.com.page" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: VisualizaciónDeHistorialDeTransaccionesWeb">
+  <component name="RunManager" selected="Cucumber Java.Feature: IntegraciónDeBackendYBackOffice">
     <configuration name="Feature: IntegraciónDeBackendYBackOffice" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/IntegraciónDeBackendYBackOffice.feature" />
@@ -179,6 +171,7 @@
     <configuration name="Feature: VisualizaciónDeHistorialDeTransaccionesWeb" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/VisualizaciónDeHistorialDeTransaccionesWeb.feature" />
+      <option name="GLUE" value="org.technicalTest.com.steps" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="technical-test" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
@@ -196,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Feature: IntegraciónDeBackendYBackOffice" />
         <item itemvalue="Cucumber Java.Feature: VisualizaciónDeHistorialDeTransaccionesWeb" />
         <item itemvalue="Cucumber Java.Feature: ReporteDeTransacciones" />
         <item itemvalue="Cucumber Java.Feature: RegistroDeUsuario" />
         <item itemvalue="Cucumber Java.Feature: PruebasDeRendimiento" />
-        <item itemvalue="Cucumber Java.Feature: IntegraciónDeBackendYBackOffice" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +211,7 @@
       <workItem from="1707724034361" duration="190000" />
       <workItem from="1707757235518" duration="3375000" />
       <workItem from="1707760618141" duration="5123000" />
-      <workItem from="1707767220360" duration="18556000" />
+      <workItem from="1707767220360" duration="19172000" />
     </task>
     <servers />
   </component>

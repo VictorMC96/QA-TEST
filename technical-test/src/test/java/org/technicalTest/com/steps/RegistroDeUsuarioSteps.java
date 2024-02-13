@@ -2,7 +2,6 @@ package org.technicalTest.com.steps;
 
 import io.cucumber.java.en.*;
 import org.junit.Assert;
-import org.technicalTest.com.conts.PropertyConst;
 
 public class RegistroDeUsuarioSteps {
 

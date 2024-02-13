@@ -38,3 +38,9 @@ x
 Hsrc/test/java/org/technicalTest/com/steps/PruebasDeRendimientoSteps.java,7/0/70f752869b1fe22dca25660bf083064be4b6af07
 â
 Ysrc/test/java/org/technicalTest/com/steps/Actualizaci√≥nDeEstadoDeTransaccionesSteps.java,8/2/8229b2103a15c632364f9fb342e7a20dbc656527
+x
+Hsrc/test/java/org/technicalTest/com/palandromo/PalindromoMessageDto.java,e/8/e851184cabc90376fe638c692cf300f4fd846f8e
+q
+Asrc/test/java/org/technicalTest/com/palandromo/PalindromoDto.java,d/7/d7b679e26da7878312a9b7b933c77ac2e981c3dd
+l
+<src/test/java/org/technicalTest/com/page/PageObjectTest.java,f/6/f62687da6406fa541aaf1b1a663a6d81d2451f57
