@@ -73,17 +73,30 @@ Escribe un escenario de prueba Gherkin para verificar la capacidad de la aplicac
 **EJERCICIO 2 Genera los referentes identificadores (xpath) para un mismo elemento en selenium y appium**
 
 ---
-### PARTE 3 Prreguntas abiertas #
+### PARTE 3 Preguntas abiertas #
 
-**Pregunta 1: ¡Cuál es la diferencia entre pruebas de carga y estrés?**
+**Pregunta 1: ¿Cuál es la diferencia entre pruebas de carga y estrés?**
+Tienen objetivos diferentes pero al mismo tiempo se encuentran relacionados. Lo que los hace difentes  es en el manejo los resultados esperados; las pruebas de carga miden el rendimiento de un sistema bajo condiciones típicas aplicando la carga prevista.Las pruebas de estrés someten al sistema a una gran presión para encontrar los puntos de fallo o insconsitencia que se llegue a prensetar dentro de la misma.
 
 **Pregunta 2: ¿Qué probarías si tuvieras que probar una nueva versión que solventa un bug crítico en producción?**
+Como primer paso realizaría un retest del cambio, validando en los ambientes de Qa y Preproductivo no se esté presentando el hallazgo anteriormente reportado. Cómo segundo paso ejecutaría un ciclo de pruebas de regresión para validar que el cambio efectuano no haya afectado flujos alternos de la aplicación.
 
 **Pregunta 3: ¿Cómo reportarías los bugs encontrados hacía los desarrolladores?**
+Lo reportaría en la herramienta oficial del proyecto agregando las siguientes espeficaciones:
+Descripción: Se detalla de forma generar el hallazgo que se está presentando dentro de una aplicación
+Precondiciones: Se agrega el requisito para poder ejecutar el flujo, un ejemplo es: "Contar un usuaro registrado en mongodb y que tenga un perfil N1".
+Pasos del actor: Se detallan los pasos para llegar a la sección en dónde fue encontrado el bug.
+Resultado esperado: Se coloca el dato de la pantalla esperada acorde al diseño acordado con el Produc Owner.
+Datos de prueba: Se incorpora la verisón del navegador o dispositivo, el ambiente y el userId con el que se hizo la prueba.
 
 **Pregunta 4: ¿Cómo le darías seguimiento a bugs reportados a Desarrollo?**
+Manadaría un correo directamente al desarrollador que está atendiendo el bug anteriormente le reporte, solicitandolé el estatus en el que se encuentra la solición del hallazgo. También en la herramienta oficial del proyecto, le estaría dando seguimiento para validar que haya cambiado de estatus para así poder validarla en el ambiente de QA 
 
 **Pregunta 5: ¿Cuál serían los niveles de severidad que manejarías para reportar bugs y con base en qué?**
+Los niveles de severidad que manejo son:
+* Alta:
+* Media:
+* Baja
 
 **Pregunta 6: ¿Puedes explicar qué es la metodología de pruebas Ágil y cuáles son sus principios fundamentales?**
 
